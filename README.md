@@ -1,5 +1,4 @@
-# aoc-scraper
-Simple Advent of Code leaderboard times scraper 
+# Advent of Code scraper (aoc-scraper)
 
 ## About
 Simple app for scraping [Advent of Code](https://adventofcode.com/) leaderboard times. 
